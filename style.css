@@ -1,0 +1,188 @@
+body{
+    margin: 0px;
+}
+.navigationbar{
+    width: 100%;
+    height: 78px;
+    background-color: #2990af;
+    margin-top: -21px;
+    
+}
+.navbar-1{
+    width: 60%;
+    height: 78px;
+    
+}
+.navbar-2{
+    width: 40%;
+    height: 78px;
+    float: right;
+    margin-top: -78px;
+}
+#maintitle{
+    
+    padding-top: 14px;
+    padding-left: 40px;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 560;
+    text-decoration: transparent;
+}
+.navinfo{
+    padding-left: 137px;
+    padding-top: 3px;
+    border-spacing: 25px;
+}
+.tnav{
+    font-family: serif;
+    color: white;
+    text-decoration: none;
+    font-size: large;
+}
+.image{
+    margin-left: 130px;
+    margin-top: 27px;
+    width: 37%;
+    height: 500px;
+    border-radius: 80%;
+}
+.head2{
+    margin-left: 895px;
+    margin-top: -319px;
+    color: #2990af;;
+    font-size: xx-large;
+}
+.head3{
+    margin-left: 774px;
+    color: #2990af; ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+}
+.head4{
+    margin-left: 739px;
+    font-style: normal;
+    font-weight: 600;
+    color: rgb(154, 190, 218);
+}
+.headabout{
+    margin-top: 133px;
+    margin-bottom: -75px;
+    margin-left: 78px;
+    font-size: xx-large;
+    color: #2990af; 
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.details{
+    background-color:#f8f9fa;
+    width: 31%;
+    height: 231px;
+    font-family: cursive;
+    margin-left: 30px;
+    color: #299abd; 
+}
+   
+.personalinfo{
+    width: 31%;
+    height: 251px;
+    background-color:#f8f9fa;
+    float: right;
+    margin-top: -241px;
+    margin-right: 10px;
+}
+.pers{
+    color:#2990af;  
+    font-family: cursive;
+    
+}
+.resume{
+    width: 8%;
+    height: 35px;
+    margin-left: 609px;
+    background-color: rgb(46, 116, 202);
+    
+}
+.contactform{
+    width: 100%;
+    height: 450px;
+    background-color: #f8f9fa;
+}
+.formhead{
+    text-align: center;
+    font-size: xx-large;
+    color: #299abd; 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#formname{
+    margin-left: 100px;
+    width: 357px;
+    height: 30px;
+    padding-left: 20px;
+    font-size: large;
+}
+#formmail{
+    margin-left: 280px;
+    width: 357px;
+    height: 30px;
+    padding-left: 20px;
+    font-size: large;
+}
+#formadr{
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 357px;
+    height: 30px;
+    padding-left: 20px;
+    font-size: large;
+
+}
+#formnum{
+    margin-left: 280px;
+    margin-top: 30px;
+    width: 357px;
+    height: 30px;
+    padding-left: 20px;
+    font-size: large;
+
+}
+#formesg{
+    margin-top: 30px;
+    width: 40%;
+    height: 178px;
+    margin-left: 100px;
+    font-size: large;
+    padding: left 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    
+    
+
+
+}
+.formsubmit{
+    margin-left: 633px;
+    margin-top: 15px;
+    width: 90px;
+    height: 40px;
+    background-color: rgb(46, 116, 202); 
+    color: whitesmoke;
+    border-radius: 8%;
+    font-size: 100%;
+    font-weight: 400;
+    border-style: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.footerbar{
+    width: 100%;
+    height: 68px;
+    background-color: #2990af; 
+    margin-top: -16px;
+}
+.cp{
+    text-align: center;
+    color: white;
+    font-size: large;
+    padding-top: 24px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
